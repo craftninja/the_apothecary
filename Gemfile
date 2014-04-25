@@ -9,6 +9,7 @@ gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
 gem 'sdoc', '~> 0.4.0',          group: :doc
 gem 'rails_12factor', '~> 0.0.2'
+gem 'pg', '~> 0.17.1'
 
 group :test, :development do
   gem 'rspec-rails', '~> 2.14.2'
