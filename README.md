@@ -1,6 +1,6 @@
 #README
 
-This will be an Herbal Apothecary App.
+This will be an Herbal Apothecary App. OOOO yeah.
 
 ### URLs of interest
 
